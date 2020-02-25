@@ -4,4 +4,5 @@
 Proiectele au fost realizate pentru următoarele discipline:
 * Psihologia Educației - prof. dr. Elena Stănculescu;
 * Pedagogie - prof. dr. Sorin Cristea;
-* Instruire asistată - conf. dr. Nicoleta Duță;
+* Instruire asistată de calculator - conf. dr. Nicoleta Duță;
+* Managementul clasei de elevi - prof. dr. Sorin Cristea;
