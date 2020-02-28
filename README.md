@@ -7,3 +7,4 @@ Proiectele au fost realizate pentru următoarele discipline:
 * Instruire asistată de calculator - conf. dr. Nicoleta Duță;
 * Managementul clasei de elevi - prof. dr. Sorin Cristea;
 * Didactica specialității - conf. dr. Victorița Trif;
+* Practică pedagogică - conf. dr. Victorița Trif. 
