@@ -1,4 +1,4 @@
-# Modulul psihopedagogic I - Universitatea din București.
+# Modulul psihopedagogic I - Universitatea din București
 ## Anul universitar 2019-2020
 
 Proiectele au fost realizate pentru următoarele discipline:
